@@ -1,7 +1,7 @@
 # EMI CALCULATOR
 This is the EMI Calculator program written in bash scripting.
 
-### Functions used in this programs:
+### Functions used in this program:
 * Main function
     * EMI_function
     * Records_function
